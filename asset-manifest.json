@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.bf49f4f6.chunk.css",
-    "main.js": "/portfolio/static/js/main.696abbe2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.696abbe2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.fcb38ce6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fcb38ce6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b77e16eb.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b77e16eb.js.map",
     "static/css/2.2d3242fe.chunk.css": "/portfolio/static/css/2.2d3242fe.chunk.css",
@@ -26,7 +26,7 @@
     "static/media/github_logo.51385a83.svg": "/portfolio/static/media/github_logo.51385a83.svg",
     "static/media/linkedin.73f68853.svg": "/portfolio/static/media/linkedin.73f68853.svg",
     "static/media/linkedin_logo.301ede51.svg": "/portfolio/static/media/linkedin_logo.301ede51.svg",
-    "static/media/profile.c55e1a41.svg": "/portfolio/static/media/profile.c55e1a41.svg",
+    "static/media/profile.99bdf70e.svg": "/portfolio/static/media/profile.99bdf70e.svg",
     "static/media/side-image.b55a539d.svg": "/portfolio/static/media/side-image.b55a539d.svg",
     "static/media/skillsIcon.b4c7856d.svg": "/portfolio/static/media/skillsIcon.b4c7856d.svg",
     "static/media/smart-desert-logo.45533507.svg": "/portfolio/static/media/smart-desert-logo.45533507.svg"
@@ -36,6 +36,6 @@
     "static/css/2.2d3242fe.chunk.css",
     "static/js/2.cf858cec.chunk.js",
     "static/css/main.bf49f4f6.chunk.css",
-    "static/js/main.696abbe2.chunk.js"
+    "static/js/main.fcb38ce6.chunk.js"
   ]
 }
