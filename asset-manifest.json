@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.af9b09fb.chunk.css",
-    "main.js": "/portfolio/static/js/main.c181c807.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c181c807.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.92986de5.chunk.css",
+    "main.js": "/portfolio/static/js/main.2ec5eea4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2ec5eea4.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.b77e16eb.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.b77e16eb.js.map",
     "static/css/2.2d3242fe.chunk.css": "/portfolio/static/css/2.2d3242fe.chunk.css",
-    "static/js/2.5d18eeeb.chunk.js": "/portfolio/static/js/2.5d18eeeb.chunk.js",
-    "static/js/2.5d18eeeb.chunk.js.map": "/portfolio/static/js/2.5d18eeeb.chunk.js.map",
+    "static/js/2.f1eb5a7f.chunk.js": "/portfolio/static/js/2.f1eb5a7f.chunk.js",
+    "static/js/2.f1eb5a7f.chunk.js.map": "/portfolio/static/js/2.f1eb5a7f.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.2d3242fe.chunk.css.map": "/portfolio/static/css/2.2d3242fe.chunk.css.map",
-    "static/css/main.af9b09fb.chunk.css.map": "/portfolio/static/css/main.af9b09fb.chunk.css.map",
-    "static/js/2.5d18eeeb.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5d18eeeb.chunk.js.LICENSE.txt",
+    "static/css/main.92986de5.chunk.css.map": "/portfolio/static/css/main.92986de5.chunk.css.map",
+    "static/js/2.f1eb5a7f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f1eb5a7f.chunk.js.LICENSE.txt",
     "static/media/aboutIcon.da50708d.svg": "/portfolio/static/media/aboutIcon.da50708d.svg",
     "static/media/achivementIcon.14d2c32b.svg": "/portfolio/static/media/achivementIcon.14d2c32b.svg",
     "static/media/skills.css": "/portfolio/static/media/background.c67d9c1d.svg",
@@ -26,7 +26,10 @@
     "static/media/github_logo.51385a83.svg": "/portfolio/static/media/github_logo.51385a83.svg",
     "static/media/linkedin.73f68853.svg": "/portfolio/static/media/linkedin.73f68853.svg",
     "static/media/linkedin_logo.301ede51.svg": "/portfolio/static/media/linkedin_logo.301ede51.svg",
+    "static/media/logo.f3119143.svg": "/portfolio/static/media/logo.f3119143.svg",
     "static/media/profile.99bdf70e.svg": "/portfolio/static/media/profile.99bdf70e.svg",
+    "static/media/resume.38ba5682.svg": "/portfolio/static/media/resume.38ba5682.svg",
+    "static/media/resume_logo.6bd2c380.svg": "/portfolio/static/media/resume_logo.6bd2c380.svg",
     "static/media/side-image.b55a539d.svg": "/portfolio/static/media/side-image.b55a539d.svg",
     "static/media/skillsIcon.b4c7856d.svg": "/portfolio/static/media/skillsIcon.b4c7856d.svg",
     "static/media/smart-desert-logo.45533507.svg": "/portfolio/static/media/smart-desert-logo.45533507.svg"
@@ -34,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.b77e16eb.js",
     "static/css/2.2d3242fe.chunk.css",
-    "static/js/2.5d18eeeb.chunk.js",
-    "static/css/main.af9b09fb.chunk.css",
-    "static/js/main.c181c807.chunk.js"
+    "static/js/2.f1eb5a7f.chunk.js",
+    "static/css/main.92986de5.chunk.css",
+    "static/js/main.2ec5eea4.chunk.js"
   ]
 }
